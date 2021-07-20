@@ -35,4 +35,4 @@ const animation = anime.timeline(
       translateY: 0,
       duration: 5000,
       delay: anime.stagger(20),
-    })
+    });
